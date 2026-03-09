@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Dear Snow",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-09T06:55:15.188787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear, Snow",
+      "artist": "Larry June",
+      "has_synced": false,
+      "path": "select/01_Dear,_Snow_Larry_June.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear Snow",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/02_Dear_Snow_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Snow",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_Dear_Snow_嵐.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear Snow",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/04_Dear_Snow_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear Snow",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/05_Dear_Snow_嵐.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear Snow",
+      "artist": "嵐(ARASHI)",
+      "has_synced": true,
+      "path": "select/06_Dear_Snow_嵐(ARASHI).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snow On The Beach (feat. Lana Del Rey)",
+      "artist": "Taylor Swift feat. Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_Snow_On_The_Beach_(feat._Lana_Del_Rey)_Taylor_Swift_feat._Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "첫눈처럼 First Snow",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": false,
+      "path": "select/08_첫눈처럼_First_Snow_Girls'_Generation_-_TTS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "첫눈처럼 (First Snow)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": false,
+      "path": "select/09_첫눈처럼_(First_Snow)_Girls'_Generation-TTS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don’t Milly Rock (feat. Rejjie Snow)",
+      "artist": "Yung Bans",
+      "has_synced": false,
+      "path": "select/10_Don’t_Milly_Rock_(feat._Rejjie_Snow)_Yung_Bans.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blakboy Vs the Snow",
+      "artist": "The LK",
+      "has_synced": false,
+      "path": "select/11_Blakboy_Vs_the_Snow_The_LK.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Momma (feat. Rejjie Snow)",
+      "artist": "Letherette",
+      "has_synced": false,
+      "path": "select/12_Momma_(feat._Rejjie_Snow)_Letherette.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After the Snow",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/13_After_the_Snow_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blank Like Snow",
+      "artist": "Movietone",
+      "has_synced": false,
+      "path": "select/14_Blank_Like_Snow_Movietone.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Snow Brigade",
+      "artist": "MEW",
+      "has_synced": false,
+      "path": "select/15_Snow_Brigade_MEW.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Underwater Snow",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/16_Underwater_Snow_múm.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Snow White",
+      "artist": "Odd Future feat. Hodgy Beats & Frank Ocean",
+      "has_synced": true,
+      "path": "select/17_Snow_White_Odd_Future_feat._Hodgy_Beats_&_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Snow White (Hodgy Beats And Frank Ocean)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/18_Snow_White_(Hodgy_Beats_And_Frank_Ocean)_Odd_Future.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dear Reader",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/19_Dear_Reader_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dear Drunk Me",
+      "artist": "Chad Brownlee",
+      "has_synced": true,
+      "path": "select/20_Dear_Drunk_Me_Chad_Brownlee.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dear Rodeo",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/21_Dear_Rodeo_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dear Today",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/22_Dear_Today_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dear God",
+      "artist": "陶喆",
+      "has_synced": true,
+      "path": "select/23_Dear_God_陶喆.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "When the Party Is Over, I Miss My Dear Porn Star",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/24_When_the_Party_Is_Over,_I_Miss_My_Dear_Porn_Star_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dear Santa",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/25_Dear_Santa_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dear Santa",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/26_Dear_Santa_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dear Santa (English Ver.)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/27_Dear_Santa_(English_Ver.)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dear. Mom",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/28_Dear._Mom_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Sorry (Dear. Daddy)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/29_Sorry_(Dear._Daddy)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dear God 2.0",
+      "artist": "The Roots feat. Monsters Of Folk",
+      "has_synced": true,
+      "path": "select/30_Dear_God_2.0_The_Roots_feat._Monsters_Of_Folk.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Dear God 2.0 (Feat. Monsters Of Folk)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/31_Dear_God_2.0_(Feat._Monsters_Of_Folk)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/32_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/33_Dear_Mama_2Pac.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Dear Old Nicki",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/34_Dear_Old_Nicki_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear Snow",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Dear_Snow_嵐.txt"
+    }
+  ]
+}
